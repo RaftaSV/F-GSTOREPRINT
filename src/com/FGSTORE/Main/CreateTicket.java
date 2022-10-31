@@ -79,7 +79,7 @@ public class CreateTicket {
 		    for(DetallesFacturas i : detalle) {
 		    //	System.out.println(i.getNombre());
 		    	String cantidadProducto = String.valueOf(i.getCantidad());
-		    	String nombreProducto = " "+i.getNombre();
+		    	String nombreProducto = " "+i.getNombre().replace("ñ", "n");
 		    	String precioUnidad = " "+ String.valueOf(df.format(i.getPrecioventa()));
 		    	String totalProducto = " "+ String.valueOf(df.format(i.getTotal()));
 		    	if (cantidadProducto.length()<4) {
