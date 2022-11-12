@@ -3,9 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/rafap/OneDrive/Documents/NetBeansProjects/TicketAnt/src/com/FGSTORE/Main/printClass.java</file>
-            <file>file:/C:/Users/rafap/OneDrive/Documents/NetBeansProjects/TicketAnt/src/com/FGSTORE/Main/MainTicket.java</file>
-            <file>file:/C:/Users/rafap/OneDrive/Documents/NetBeansProjects/TicketAnt/src/com/FGSTORE/Main/CreateTicket.java</file>
+            <file>file:/C:/Users/Rafta/Documents/GitHub/FGSTOREPRINT/src/com/FGSTORE/Entidades/DetallesFacturas.java</file>
+            <file>file:/C:/Users/Rafta/Documents/GitHub/FGSTOREPRINT/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Rafta/Documents/GitHub/FGSTOREPRINT/src/com/FGSTORE/Main/PrintTicket.java</file>
+            <file>file:/C:/Users/Rafta/Documents/GitHub/FGSTOREPRINT/src/com/FGSTORE/Conexion/Conexion.java</file>
+            <file>file:/C:/Users/Rafta/Documents/GitHub/FGSTOREPRINT/src/com/FGSTORE/Main/CreateTicket.java</file>
+            <file>file:/C:/Users/Rafta/Documents/GitHub/FGSTOREPRINT/src/com/FGSTORE/Main/printClass.java</file>
         </group>
     </open-files>
 </project-private>
