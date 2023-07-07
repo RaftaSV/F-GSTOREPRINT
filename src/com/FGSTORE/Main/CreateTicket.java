@@ -66,7 +66,7 @@ public class CreateTicket {
 		   builder.append   ("              Factura: "+idFactura +"\n"); //Numero del recibo - FACTURA O PEDIDO
 		   builder.append   ("               Cajero: "+cajero +"\n"); //Nombre Cajero
 		   builder.append   ("              Cliente: "+Cliente +"\n");//Nombre del Cliente
-                    builder.append  ("             WhatsApp: 7806-2572" +"\n");//WhatsApp
+                    builder.append  ("             WhatsApp: 6308-2121" +"\n");//WhatsApp
 		   builder.append   ("-----------------------------------------------" + "\n");
 		   builder.append   ("                                               " + "\n");
 		   
